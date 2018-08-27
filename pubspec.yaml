@@ -1,7 +1,7 @@
 name: prompter_hv12
 version: 0.0.1
 description: Library to create CLI wizards
-author: Hector Vazquez <Hector_Vazquez@live.com>
+author: HectorV
 homepage: https://www.linkedin.com/in/hector-vazquez-5774b899/
 
 environment:
